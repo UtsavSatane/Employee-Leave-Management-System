@@ -1,6 +1,7 @@
 # 🗂️ Employee Leave Management System (ELMS)
 
 A full-stack web application built with the **MERN Stack** that streamlines the process of managing employee leave requests within an organization.
+It is very useful for the employees for applying leaves and managing them.
 
 ---
 
