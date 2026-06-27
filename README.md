@@ -22,6 +22,7 @@ It is very useful for the employees for applying leaves and managing them.
 ### 👤 Employee
 - Apply for leave with type, dates, and reason
 - View personal leave balance and history
+- The Leave request will go to the Admin and Admin will decide whether to accept of reject.
 - Track the status of submitted requests (Pending / Approved / Rejected)
 
 ### 🛠️ Admin
